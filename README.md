@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Denys Sharpylo (@sharpyld)
-- 👀 I’m interested in Economics and Computer Science, and learning about the ways I can mix and apply both of these fields together. 
+- 👀 I’m interested in Economics and Data Analytics, and learning about the ways I can mix and apply both of these fields together. I enjoy working with data and using it to tell stories and convey important messages.
 - 🌱 I’m currently pursuing two undergraduate degrees in Quantitative Economics and Data Analytics at Dickinson College.
 - 💞️ I’m looking to collaborate on anything that is related to Python, SQL, R, Power BI, Tableau, or Qlik. 
 
