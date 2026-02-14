@@ -1,12 +1,14 @@
 # Hi, I'm Denys 👋
 
 I'm a **Data Analytics** and **Quantitative Economics** student at Dickinson College, graduating May 2026. 
-I enjoy turning messy data into clear insights, especially in finance, economics, sports, military tech, and business analytics.
+I enjoy turning messy data into clear insights and use it to tell sotries. 
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/denys-sharpylo) · [Email](mailto:denys.sharpylo@gmail.com)
 
 - 🎓 B.S. in Data Analytics & Quantitative Economics @ Dickinson College (Dean’s List all semesters)
 - 💼 Financial Systems & Data Intern @ Clark Associates (WebstaurantStore) - Summer of 2025
 - 📊 Interested in: empirical finance, forecasting, optimization, military tech, sports, and AI.
-- 🌱 Currently sharpening: machine learning in Python, Power BI/DAX, and SQL.  
+- 🌱 Currently sharpening: machine learning in Python, cloud systems, AI engineering, Power BI, QLIK, and SQL.  
 
 ## 🔧 Tech Stack
 
@@ -36,5 +38,3 @@ Built reports for Warranty Consolidation, Employee Headcount, and $7.5B Sales De
 - Center back for Men’s Varsity Soccer @ Dickinson College
 - Economics Tutor and Peer Advisor supporting students with coursework and academic planning
 - Enjoy golfing, reading The Wall Street Journal, and self‑development books.
-
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/denys-sharpylo) · [Email](mailto:denys.sharpylo@gmail.com)
