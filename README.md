@@ -12,7 +12,7 @@ I enjoy turning messy data into clear insights, especially in finance, economics
 
 - Languages: Python, SQL, R, Java, DAX
 - Analytics & ML: pandas, scikit-learn, statsmodels, numpy, matplotlib/seaborn  
-- BI & Databases: Power BI, Tableau, SQLite, Excel
+- BI & Databases: Power BI, Qlik, Tableau, SQLite, Excel
 - Tools: Git, GitHub, Jupyter Notebook, RStudio, Linux, MS 365
 
 ## 🧠 Featured Projects
