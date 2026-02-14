@@ -1,7 +1,7 @@
 # Hi, I'm Denys 👋
 
 I'm a **Data Analytics** and **Quantitative Economics** student at Dickinson College, graduating May 2026. 
-I enjoy turning messy data into clear insights and use it to tell sotries. 
+I enjoy turning messy data into clear insights and use it to tell stories. 
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/denys-sharpylo) · [Email](mailto:denys.sharpylo@gmail.com)
 
