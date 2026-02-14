@@ -4,8 +4,8 @@ I'm a **Data Analytics** and **Quantitative Economics** student at Dickinson Col
 I enjoy turning messy data into clear insights, especially in finance, economics, sports, military tech, and business analytics.
 
 - 🎓 B.S. in Data Analytics & Quantitative Economics @ Dickinson College (Dean’s List all semesters)
-- 💼 Financial Systems & Data Intern @ Clark Associates (WebstaurantStore)  
-- 📊 Interested in: empirical finance, forecasting, optimization, and AI in finance.
+- 💼 Financial Systems & Data Intern @ Clark Associates (WebstaurantStore) - Summer of 2025
+- 📊 Interested in: empirical finance, forecasting, optimization, military tech, sports, and AI.
 - 🌱 Currently sharpening: machine learning in Python, Power BI/DAX, and SQL.  
 
 ## 🔧 Tech Stack
