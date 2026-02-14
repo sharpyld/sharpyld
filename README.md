@@ -6,7 +6,7 @@ I enjoy turning messy data into clear insights and use it to tell stories.
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/denys-sharpylo) · [Email](mailto:denys.sharpylo@gmail.com)
 
 - 🎓 B.S. in Data Analytics & Quantitative Economics @ Dickinson College (Dean’s List all semesters)
-- 💼 Financial Systems & Data Intern @ Clark Associates (WebstaurantStore) - Summer of 2025
+- 💼 Financial Systems & Data Intern @ Clark Associates - Summer of 2025
 - 📊 Interested in: empirical finance, forecasting, optimization, military tech, sports, and AI.
 - 🌱 Currently sharpening: machine learning in Python, cloud systems, AI engineering, Power BI, QLIK, and SQL.  
 
